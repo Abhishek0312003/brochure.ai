@@ -1,0 +1,6 @@
+openai
+requests
+beautifulsoup4
+playwright
+flask
+flask-cors
